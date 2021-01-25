@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: mngw
+ehcache:
+  caches:
+    retskredse:
+      enabled: true
+dawa.host: https://dawa.aws.dk
